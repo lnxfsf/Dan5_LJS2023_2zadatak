@@ -1,4 +1,5 @@
 
+
 const charCountInput = document.getElementById("charCount");
 const napraviButton = document.getElementById("generisi");
 const dodajButton = document.getElementById("dodaj");
