@@ -25,3 +25,90 @@ body {
 button {
     font-size: 20px;
 }
+
+
+.delete-button {
+	border: 0;
+	cursor: pointer;
+
+
+}
+
+
+.square-container {
+	border: 0;
+
+
+}
+
+
+.square {
+	border: 0.1em #B0BEC5 solid;
+	border-radius: 5px;
+
+	overflow: auto;
+
+}
+
+
+.square:focus {
+
+	outline: none;
+	border: 0.15em #B0BEC5 solid;
+
+	overflow: auto;
+}
+
+
+#pal {
+	display: block;
+}
+
+
+
+
+#generisi, #dodaj {
+
+	background-color: #2196f3;
+	color: white;
+	border: 0;
+	padding: 0.5em;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+
+
+
+
+#charCount{
+
+ 	padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.2s ease-in-out;
+
+}
+
+
+#charCount:focus {
+
+
+	border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
+
+}
+
+
+
+.pali {
+
+	display: block;
+	font-weight: bold;
+
+}
+
+
+
